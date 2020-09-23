@@ -1,1 +1,5 @@
-Ejecutar un servidor para visualizar el proyecto: python -m http.server 3000
+Instafeed created with Bootstrap!
+
+
+
+Ejecutar servidor para visualizar el proyecto: python -m http.server 3000
